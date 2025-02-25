@@ -18,7 +18,7 @@ elif not gondol:
 else:
     print("çıkış")
 
-nu1,nu2,nu3 ="\nsıkıldım",0 ,True
+nu1,nu2,nu3 ="\nmerhaba",0 ,True
 print(nu1 ,nu2,nu3)
 print(nu2)
 print(nu3)
@@ -49,7 +49,7 @@ reversed_name=name[::-1]
 print(reversed_name) # reverse=tersine çevirmek
 
         #012345678       -54321-
-website="https://www.google.com"
+website= "https://www.google.com"
 website2 = "https://www.wikipedia.org/"
 
 slice = slice(8,-4)
