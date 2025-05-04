@@ -1,7 +1,7 @@
 sayi1 = int(input( "İlk sayı= "))
 sayi2 = int(input( "İkinci sayı= "))
 
-islem =input("""Yapmak istediğiniz işlemi giriniz. 
+islem =input("""Yapmak istediğiniz işlemi giriniz.
 (+,_,*,/) : """)
 
 if islem=="+" :
@@ -16,3 +16,6 @@ elif islem == "/" :
     print(sayi1 / sayi2)
 else:
     print("hatalı deger girdiniz.")
+
+# squares = [n**2 for n in range(10)]
+# print(squares)
